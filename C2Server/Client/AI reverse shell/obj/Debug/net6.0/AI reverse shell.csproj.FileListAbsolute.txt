@@ -1,0 +1,15 @@
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\obj\Debug\net6.0\AI reverse shell.csproj.AssemblyReference.cache
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\obj\Debug\net6.0\AI reverse shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\obj\Debug\net6.0\AI reverse shell.AssemblyInfoInputs.cache
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\obj\Debug\net6.0\AI reverse shell.AssemblyInfo.cs
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\obj\Debug\net6.0\AI reverse shell.csproj.CoreCompileInputs.cache
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\bin\Debug\net6.0\AI reverse shell.exe
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\bin\Debug\net6.0\AI reverse shell.deps.json
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\bin\Debug\net6.0\AI reverse shell.runtimeconfig.json
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\bin\Debug\net6.0\AI reverse shell.dll
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\bin\Debug\net6.0\AI reverse shell.pdb
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\obj\Debug\net6.0\AI reverse shell.dll
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\obj\Debug\net6.0\refint\AI reverse shell.dll
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\obj\Debug\net6.0\AI reverse shell.pdb
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\obj\Debug\net6.0\AI reverse shell.genruntimeconfig.cache
+C:\Users\lsbol\source\repos\AI reverse shell\AI reverse shell\obj\Debug\net6.0\ref\AI reverse shell.dll
