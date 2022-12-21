@@ -6,7 +6,13 @@ Please note that [Project Name] is intended for educational and research purpose
 
 We welcome contributions and feedback from the community. If you have ideas for improvements or spot any issues, please feel free to open a pull request or issue on the GitHub repository.
 
-1 - [ ] - Write and implement plugins for specific tasks or commands
-2 - [ ] - Write documentation for the C2 server
-3 - [ ] - Implement logging and monitoring to track activity on the C2 server
-4
+- [ ] - Write and implement plugins for specific tasks or commands
+
+
+ - [ ] - Write documentation for the C2 server
+
+
+- [ ] - Implement logging and monitoring to track activity on the C2 server
+
+
+
